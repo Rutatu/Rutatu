@@ -1,5 +1,6 @@
 
-![Purple Minimalist Brush Personal LinkedIn Banner](https://user-images.githubusercontent.com/54916671/152874888-7ab1284f-4ecb-4948-85af-3494cbd54093.png)
+
+![Purple Minimalist Brush Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/54916671/152875483-9106f1ce-8b0e-45de-b7bd-7f4b5363c6ea.png)
 
 
 
