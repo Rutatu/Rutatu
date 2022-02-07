@@ -1,6 +1,6 @@
-<p align="center">
-  ![Purple Minimalist Brush Personal LinkedIn Banner](https://user-images.githubusercontent.com/54916671/152874888-7ab1284f-4ecb-4948-85af-3494cbd54093.png)
-</p>
+
+![Purple Minimalist Brush Personal LinkedIn Banner](https://user-images.githubusercontent.com/54916671/152874888-7ab1284f-4ecb-4948-85af-3494cbd54093.png)
+
 
 
 ![](https://komarev.com/ghpvc/?username=Rutatu&color=blueviolet)
