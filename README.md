@@ -1,19 +1,10 @@
 <p align="center">
-  __Hi there👋
-  I am Ruta__
-</p> 
-
-<p align="center">
-  **Cognitive science graduate passionate about interdisciplinary brain/mind/behavior research**
- </p> 
-    
+  ![Purple Minimalist Brush Personal LinkedIn Banner](https://user-images.githubusercontent.com/54916671/152874888-7ab1284f-4ecb-4948-85af-3494cbd54093.png)
+</p>
 
 
 ![](https://komarev.com/ghpvc/?username=Rutatu&color=blueviolet)
   
-
-
-
 
 🔭 I’m currently working on a Bayesian statistical analysis (in R studio) investigating home practice patterns of the Mindfulness-Based Programme
 
