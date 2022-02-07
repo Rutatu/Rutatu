@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Ruta
 
-## An aspiring cognitive science graduated passionate about interdisciplinary brain research gathering experience in data analysis
+#### An aspiring cognitive science graduate passionate about interdisciplinary brain research gathering experience in data analysis
 
 <!--
 **Rutatu/Rutatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
