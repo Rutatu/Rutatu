@@ -9,7 +9,7 @@
     
 
 
-![](https://komarev.com/ghpvc/?username=Rutatu&color=yellow)
+![](https://komarev.com/ghpvc/?username=Rutatu&color=blueviolet)
   
 
 
@@ -22,9 +22,9 @@
 📫 How to reach me: rutaslivkaite@gmail.com     [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/r%C5%ABta-slivkait%C4%97-8385a284/)&nbsp; 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Rutatu&theme=swift&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Rutatu&theme=buefy&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rutatu&theme=swift&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rutatu&theme=buefy&layout=compact)
 
 
 
