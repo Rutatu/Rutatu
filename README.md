@@ -3,6 +3,10 @@
 
 #### An aspiring cognitive science graduate passionate about interdisciplinary brain/mind/behavior research gathering experience in data analysis
 
+- 🔭 I’m currently working on cleaning and analyzing mobile app data for the research project investigating home practice patterns of the Mindfulness-Based
+Programme by conducting a Bayesian statistical analysis.
+
+
 <!--
 **Rutatu/Rutatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
