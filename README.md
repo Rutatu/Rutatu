@@ -1,15 +1,25 @@
-### Hi there 👋
-### I am Ruta
+<p align="center">
+  __Hi there👋
+  I am Ruta__
+</p> 
 
-#### Cognitive science graduate passionate about interdisciplinary brain/mind/behavior research 
+<p align="center">
+  **Cognitive science graduate passionate about interdisciplinary brain/mind/behavior research**
+ </p> 
+    
+
 
 ![](https://komarev.com/ghpvc/?username=Rutatu&color=yellow)
+  
+
+
+
 
 🔭 I’m currently working on a Bayesian statistical analysis (in R studio) investigating home practice patterns of the Mindfulness-Based Programme
 
 🌱 I’m currently learning Bayesian statistics, neuroscience
 
-📫 How to reach me: rutaslivkaite@gmail.com
+📫 How to reach me: rutaslivkaite@gmail.com     [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/r%C5%ABta-slivkait%C4%97-8385a284/)&nbsp; 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Rutatu&theme=moltack&show_icons=true&count_private=true)
